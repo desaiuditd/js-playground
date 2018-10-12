@@ -1,0 +1,21 @@
+{
+  "name": "js-playground-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Hello World!\" && exit 1"
+  },
+  "repository": "git+ssh://git@github.com/desaiuditd/js-playground.git",
+  "author": "Udit Desai",
+  "license": "GPL 3.0",
+  "bugs": {
+    "url": "https://github.com/desaiuditd/js-playground/issues"
+  },
+  "homepage": "https://github.com/desaiuditd/js-playground#readme",
+  "dependencies": {
+    "@wordpress/hooks": "^2.0.2",
+    "express": "^4.16.4",
+    "promise.prototype.finally": "^3.1.0"
+  }
+}
